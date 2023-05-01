@@ -1,6 +1,3 @@
-# Pointy
-Comparison of point cloud classification performance using 2D projection based and transformer based methods. Also explores adversarial attacks on these classes of models specifically, one-point and noise attacks.
-
 ## **CS 4644/7643: Deep Learning | Spring 2023**
 **Georgia Institute of Technology, Atlanta, GA**
 
