@@ -16,6 +16,8 @@ Point cloud data is an important type of data used in various applications such 
 #### **Dataset**
 In this notebook, we will be using the ModelNet40 dataset for testing our models. ModelNet10 is a widely-used benchmark dataset for evaluating 3D object classification algorithms. It contains 12,311 CAD models from 10 different categories, with each model represented as a point cloud.
 
+![ModelNet](./img/dataset.jpg)
+
 #### **Models**
 We will be implementing and comparing three different models for point cloud classification: SimpleView, 3DCTN, and a modified custom version of 3DCTN. SimpleView is a simple yet effective model that uses a fully connected network to classify point clouds. 3DCTN, on the other hand, is a more complex model that uses a 3D convolutional neural network (CNN) to classify point clouds. We will also be modifying the 3DCTN model to see if we can improve its performance.
 
