@@ -8,7 +8,10 @@ Final project by,
 >*Sanjay Josh*: sjosh3@gatech.edu\
 >*Vastav Bharambe*: vbharambe6@gatech.edu
 
+Refer to driver.ipynb for all the main sections
+
 # **Point Cloud Classification**
+
 
 #### **Introduction**
 Point cloud data is an important type of data used in various applications such as autonomous vehicles, robotics, and virtual reality. Point cloud classification refers to the task of assigning a label to a given point cloud based on its features.
