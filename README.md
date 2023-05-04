@@ -8,7 +8,7 @@ Final project by,
 >*Sanjay Josh*: sjosh3@gatech.edu\
 >*Vastav Bharambe*: vbharambe6@gatech.edu
 
-Refer to driver.ipynb for all the main sections
+Refer to `driver.ipynb` for all the main sections
 
 # **Point Cloud Classification**
 
