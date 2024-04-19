@@ -1,4 +1,4 @@
-## **CS 4644/7643: Deep Learning | Spring 2023**
+# **CS 4644/7643: Deep Learning | Spring 2023**
 **Georgia Institute of Technology, Atlanta, GA**
 
 Final project by,
